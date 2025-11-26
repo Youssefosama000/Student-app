@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489385859664",
+    "project_id": "prosfessorapp",
+    "storage_bucket": "prosfessorapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489385859664:android:192859a5f5bc2dbda6cf55",
+        "android_client_info": {
+          "package_name": "com.example.professor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATIauuVK0lcH0rjmc694Q1ZxVe0CcnZu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489385859664:android:72716120ac05fb9aa6cf55",
+        "android_client_info": {
+          "package_name": "com.example.student_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATIauuVK0lcH0rjmc694Q1ZxVe0CcnZu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
