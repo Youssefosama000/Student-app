@@ -232,7 +232,8 @@ class StudentProvider extends ChangeNotifier {
       );
       
       await sessionDoc.update(completedSession.toJson());
-      _currentSession = null;
+      // Keep current session so UI can read the finalScore immediately
+      _currentSession = completedSession;
       notifyListeners();
     }
   }
